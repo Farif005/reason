@@ -1,0 +1,72 @@
+* {
+	margin: 0px;
+	padding: 0px;
+}
+.logo0{
+	background-image:url(1/q.jpg);
+	background-repeat:no-repeat;
+	background-position: center;
+	background-color:red;
+	background-size: 100% 100%;
+    padding:20px;
+    border: 5px dashed green; /* квадрат зеленый*/
+    background-origin:border-box;/*Полный захват квадартом фото*/
+}
+.logo0.logo01{
+	background-image:url(1/q.jpg);
+	background-repeat:no-repeat;
+	background-position: center;
+	background-color:red;
+	background-size: 100% 100%;
+    padding:20px;
+    border: 5px dashed red; /* квадрат зеленый*/
+    background-origin:border-box;/*Полный захват квадартом фото*/
+}
+.logo1{
+	margin-top: 0;
+	height: 1000px;
+}
+div.menu{
+	text-align: center;
+	height: 45px;
+}
+a.menu0{
+	margin-left: 50px;
+	color:black;
+	font-size: 25px;
+}
+.hello{
+	display: flex;
+}
+.hello0{
+	text-align: center;
+	margin-top: 15px;
+
+}
+.if{
+	margin: 30px 0px 0px 300px;
+	width: 450px;
+}
+.if0{
+	color: red;
+	text-align: center;
+	color: white;
+}
+.if01{
+	color: red;
+}
+.content{
+	width: 450px;
+	margin: 30px 0px 0px 15px;
+}
+.footer{
+	background-color: black;
+	color: red;
+	margin-top: 15px;
+	text-align: center;
+
+}
+.footer1{
+	width: 30px;
+	height: 30px;
+}
