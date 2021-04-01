@@ -11,6 +11,8 @@
     padding:20px;
     border: 5px dashed green; /* квадрат зеленый*/
     background-origin:border-box;/*Полный захват квадартом фото*/
+    text-align: center;
+	font-size: 4.0em;
 }
 .logo0.logo01{
 	background-image:url(1/q.jpg);
@@ -21,6 +23,10 @@
     padding:20px;
     border: 5px dashed red; /* квадрат зеленый*/
     background-origin:border-box;/*Полный захват квадартом фото*/
+}
+.logo10{
+	
+
 }
 .logo1{
 	margin-top: 0;
